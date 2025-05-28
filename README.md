@@ -1,4 +1,4 @@
-[![View model-based-spike-detection on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://it.mathworks.com/matlabcentral/fileexchange/162101-model-based-spike-detection)
+[![File Exchange](https://img.shields.io/badge/File%20Exchange-MathWorks-orange)](https://it.mathworks.com/matlabcentral/fileexchange/162101-model-based-spike-detection)
 
 <p align="center">
 
