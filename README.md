@@ -3,7 +3,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
-[![](https://github.com/MattiaDif/model-based-spike-detection/raw/main/img/spike-detection.png?raw=true)](https://github.com/MattiaDif/model-based-spike-detection/blob/main/img/spike-detection.png?raw=true)
+<p align="center">
+<img src="https://github.com/MattiaDif/model-based-spike-detection/blob/main/img/spike-detection.png?raw=true" width="250">
+</p>
 
 # Model-based online implementation of spike detection algorithms for neuroengineering applications
 
@@ -36,7 +38,7 @@ Rember to add the repo to the Matlab path!
 
 1. Clone the repo and add it to your MATLAB path (see Installation above).
 2. Open `Spike_Detection_models/SingleChannelModels` (or `MultiChannelModels` for multi-channel) in MATLAB.
-3. Pick a model category and run its `..._run.m` script (e.g. a file prefixed `float_sch_run` for single-channel): this configures the model parameters and launches the Simulink simulation using the bundled `TestData`.
+3. Pick a model category and run its `..._run.m` script (e.g. a file prefixed `float_sch_run` for single-channel) — this configures the model parameters and launches the Simulink simulation using the bundled `TestData`.
 4. To generate your own simulated recordings instead of using the bundled test data, see the `Recording_Generator` folder below.
 
 ## Repo description
