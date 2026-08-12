@@ -85,3 +85,7 @@ For further information please refer to the scientific publication: [link](https
 If you use this repo, please cite:
 
 "Di Florio, M., Iyer, V., Rajhans, A., Buccelli, S., & Chiappalone, M. (2022, July). Model-based online implementation of spike detection algorithms for neuroengineering applications. In 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 736-739). IEEE."
+
+## Notes
+
+To contribute refers to the *dev* branch!
